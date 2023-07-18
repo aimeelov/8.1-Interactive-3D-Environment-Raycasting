@@ -1,0 +1,7 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+Assets/MinimalistBedroom/Scenes/TheMinmalist_Mian/ReflectionProbe-0.exr filter=lfs diff=lfs merge=lfs -text
+Assets/MinimalistBedroom/Videos/video filter=lfs diff=lfs merge=lfs -text
+Assets/Free[[:space:]]Furniture[[:space:]]Set/Source/Textures/AngledSofaLeatherBrown__OcclusionRoughnessMetallic.TGA filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+Assets/MinimalistBedroom/Videos/video[[:space:]](2160p)[[:space:]](1).mp4 filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Assets/MinimalistBedroom/Videos/video[[:space:]](2160p).mp4 filter=lfs diff=lfs merge=lfs -text
